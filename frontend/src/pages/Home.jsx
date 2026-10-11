@@ -20,7 +20,7 @@ const features = [
   },
   {
     icon: CheckCircle,
-    title: 'ออร์แกนิก 100%',
+    title: 'ไฮโดรโปนิกส์ 100%',
     desc: 'ผักไฮโดรโปนิกสด สะอาด ปลอดสารพิษ ตรงจากฟาร์ม',
     color: 'bg-emerald-50 text-emerald-600',
   },

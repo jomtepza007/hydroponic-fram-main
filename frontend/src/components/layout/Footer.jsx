@@ -16,7 +16,7 @@ export default function Footer() {
               <span className="font-bold text-xl">HydroFarm</span>
             </div>
             <p className="text-white/60 text-sm leading-relaxed">
-              ระบบสั่งจองผักไฮโดรโปนิกออร์แกนิก สด สะอาด ปลอดภัย ตรงจากฟาร์มถึงมือคุณ
+              ระบบสั่งจองผักไฮโดรโปนิก สด สะอาด ปลอดภัย ตรงจากฟาร์มถึงมือคุณ
             </p>
           </div>
 
