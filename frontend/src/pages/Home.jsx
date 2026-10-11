@@ -115,7 +115,7 @@ export default function Home() {
 
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-forest-dark leading-tight mb-6">
                 ผักสด{' '}
-                <span className="text-gradient">ออร์แกนิก</span>
+                <span className="text-gradient"> ไฮโดรโปนิกส์ </span>
                 <br />ตรงจากฟาร์ม<br />
                 ถึงมือคุณ
               </h1>
